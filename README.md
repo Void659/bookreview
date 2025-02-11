@@ -45,7 +45,6 @@ Cuenta de Firebase :
 profile
 
  
-README.md 
 📱 Nombre de la Aplicación  
 
 Descripción breve:  Una aplicación móvil desarrollada con React Native y Expo, que utiliza Node.js como backend y Firebase para la gestión de datos. La aplicación puede ejecutarse tanto en un emulador de Android como en un dispositivo físico. 
@@ -127,9 +126,9 @@ const firebaseConfig = {
   messagingSenderId: "TU_MESSAGING_SENDER_ID",
   appId: "TU_APP_ID"
 };
-```
-export default firebaseConfig;
 
+export default firebaseConfig;
+```
 4. Ejecutar la Aplicación 
 
 Para ejecutar la aplicación en un emulador o dispositivo físico, usa el siguiente comando: 
