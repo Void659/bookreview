@@ -42,63 +42,6 @@ Cuenta de Firebase :
     Crea un proyecto en Firebase Console .
     Configura la autenticación y las reglas de Firestore.
 
-profile
-
- 
-📱 Nombre de la Aplicación  
-
-Descripción breve:  Una aplicación móvil desarrollada con React Native y Expo, que utiliza Node.js como backend y Firebase para la gestión de datos. La aplicación puede ejecutarse tanto en un emulador de Android como en un dispositivo físico. 
-🚀 Tecnologías Utilizadas  
-
-    Frontend:  
-        React Native  - Framework para desarrollo móvil multiplataforma.
-        Expo  - Herramienta para facilitar el desarrollo y pruebas de aplicaciones React Native.
-         
-
-    Backend:  
-        Node.js  - Entorno de ejecución para JavaScript del lado del servidor.
-         
-
-    Base de Datos y Autenticación:  
-        Firebase Console  - Plataforma para autenticación, almacenamiento de datos y notificaciones push.
-         
-
-    Entorno de Desarrollo:  
-        Emulador de Android o dispositivo físico.
-         
-     
-
-📦 Requisitos Previos  
-
-Antes de comenzar, asegúrate de tener instalado lo siguiente: 
-
-    Node.js  (v14 o superior): Descargar Node.js  
-
-    Expo CLI : Instálalo globalmente usando npm: 
-    bash
-     
-
-     
-    1
-    npm install -g expo-cli
-     
-     
-
-    Android Studio  (para usar el emulador de Android): 
-        Descarga e instala Android Studio .
-        Configura un dispositivo virtual desde AVD Manager.
-         
-
-    Dispositivo Físico  (opcional): 
-        Asegúrate de tener habilitado el modo desarrollador y la depuración USB en tu dispositivo Android.
-        Conéctalo a tu computadora mediante USB.
-         
-
-    Cuenta de Firebase : 
-        Crea un proyecto en Firebase Console .
-        Configura la autenticación y las reglas de Firestore o Realtime Database según sea necesario.
-         
-     
 
 🛠️ Instalación  
 1. Clonar el Repositorio 
