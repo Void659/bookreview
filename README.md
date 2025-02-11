@@ -54,6 +54,8 @@ cd bookreview
 
 Una vez dentro del directorio del proyecto, instala las dependencias necesarias: 
 npm install
+
+
 3. Configurar Firebase 
 
     Ve a tu proyecto en Firebase Console .
